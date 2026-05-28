@@ -1,3 +1,13 @@
-# odin-recipes
+# Odin Recipes
 
-This is the first odin project. This website has index page that links to other recipes. My completion of this project demonstrates my knowledge of HTML, the command line and git.
+A beginner project from The Odin Project curriculum.
+
+## Overview
+
+A simple recipe website built with HTML. The index page links out to individual recipe pages.
+
+## Skills Demonstrated
+
+- HTML structure and syntax
+- Command line usage
+- Git version control
