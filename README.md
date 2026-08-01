@@ -6,7 +6,7 @@ A beginner project from The Odin Project curriculum.
 
 A simple recipe website built with HTML. The index page links out to individual recipe pages.
 
-## Live Demo
+## Live Preview
 
 https://olamide-aa.github.io/odin-recipes/
 
